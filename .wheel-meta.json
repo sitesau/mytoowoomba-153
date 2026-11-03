@@ -1,0 +1,22 @@
+{
+  "wheel_id": 706,
+  "structure": "umbrella",
+  "slug": "mytoowoomba-153",
+  "project": "business-directory-toowoomba-council-and-approvals-a756ecfecacf",
+  "parent_t1_ref": "mytoowoomba-014",
+  "node_role": "buffer",
+  "money_target": "mytoowoomba.com.au",
+  "primary_kw": "business directory toowoomba council and approvals",
+  "intended_url": "https://sitesau.github.io/mytoowoomba-153/",
+  "tier": "T2",
+  "writeback_nonce": "48ce6923729ebe1c",
+  "links": [
+    {
+      "target_url": "https://business-directory-toowoomba-mytoowoomba-014-125c70.gitlab.io/",
+      "anchor": "the business directory toowoomba overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
